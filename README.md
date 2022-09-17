@@ -1,1 +1,1 @@
-## Pirkol
+## Git lecture ##
